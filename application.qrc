@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/free-icon-text-editor-893413.png</file>
+        <file>Images/free-icon-text-editor-4400433.png</file>
+        <file>Images/free-icon-text-editor-4906594.png</file>
+        <file>Images/free-icon-text-editor-5720896.png</file>
+        <file>Images/free-icon-text-editor-6577193.png</file>
+        <file>Images/free-icon-text-editor-10336774.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../Desktop/Images/free-icon-eraser-5641311.png</file>
+        <file>Images/free-icon-text-editor-893413.png</file>
+        <file>../Desktop/Images/free-icon-page-5326443.png</file>
+    </qresource>
+</RCC>
